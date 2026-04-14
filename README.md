@@ -2,6 +2,8 @@
 
 Este repositório contém a resolução de exercícios do site [BeeCrowd](https://www.beecrowd.com.br/).
 
+---
+
 ## 🔗 Índice
 
 - [📂 Estrutura](#-estrutura)
@@ -39,7 +41,7 @@ Este repositório contém a resolução de exercícios do site [BeeCrowd](https:
 
 ## 👩🏻‍💻 Tecnologia
 
-- ☕ Java
+- ☕ Java (JDK 19)
 
 ---
 
