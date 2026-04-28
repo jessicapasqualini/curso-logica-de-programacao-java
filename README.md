@@ -65,9 +65,12 @@ src/
 
 ### 🔹 Estrutura Condicional
 
-| #  | Exercício | Código | Status |
-|----|-----------|--------|--------|
-| -- | Em breve  | —      | ⏳      |
+| #    | Exercício                                                               | Código                                                                                                                                    | Status |
+|------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 1035 | [Teste de Seleção 1](https://judge.beecrowd.com/pt/problems/view/1035)  | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/condicional/beecrowd1035.java) | 🟢     |
+| 1036 | [Fórmula de Bhaskara](https://judge.beecrowd.com/pt/problems/view/1036) | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/condicional/beecrowd1036.java) | 🟢     |
+| 1038 | [Lanche](https://judge.beecrowd.com/pt/problems/view/1038)              | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/condicional/beecrowd1038.java) | 🟢     |
+| 1044 | [Múltiplos](https://judge.beecrowd.com/pt/problems/view/1044)           | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/condicional/beecrowd1044.java) | 🟢     |
 
 ---
 
