@@ -76,9 +76,11 @@ src/
 
 ### 🔹 Estrutura de Repetição
 
-| #  | Exercício | Código | Status |
-|----|-----------|--------|--------|
-| -- | Em breve  | —      | ⏳      |
+| #    | Exercício | Código                                                                                                                                   | Status |
+|------|-----------|------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 1113 | [Crescente e Decrescente](https://judge.beecrowd.com/pt/problems/view/1113)          | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/repetitiva/beecrowd1113.java) | 🟢     |
+| 1114 | [Senha Fixa](https://judge.beecrowd.com/pt/problems/view/1114)           | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/repetitiva/beecrowd1114.java) | 🟢     |
+| 1115 | [Quadrante](https://judge.beecrowd.com/pt/problems/view/1115)          | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/repetitiva/beecrowd1115.java) | 🟢     |
 
 ---
 
