@@ -1,6 +1,6 @@
-# Exercícios Iniciais - Lógica de Programação
+# Exercícios Lógica de Programação
 
-Este repositório contém a resolução de exercícios do site [BeeCrowd](https://www.beecrowd.com.br/).
+Este repositório contém as resoluções de exercícios com base no site [BeeCrowd](https://www.beecrowd.com.br/).
 
 ---
 
@@ -19,9 +19,9 @@ Os exercícios estão organizados conforme o tipo de estrutura lógica:
 ```bash
 src/
  └── estrutura/
-      ├── sequencial/
       ├── condicional/
-      └── repeticao/
+      ├── repetitiva/
+      └── sequencial/
 ```
 
 
@@ -32,6 +32,29 @@ src/
 ---
 
 ## 💻 Exercícios Resolvidos
+
+### 🔹 Estrutura Condicional
+
+| #    | Exercício                                                               | Código                                                                                                                                    | Status |
+|------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 1035 | [Teste de Seleção 1](https://judge.beecrowd.com/pt/problems/view/1035)  | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/condicional/beecrowd1035.java) | 🟢     |
+| 1036 | [Fórmula de Bhaskara](https://judge.beecrowd.com/pt/problems/view/1036) | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/condicional/beecrowd1036.java) | 🟢     |
+| 1038 | [Lanche](https://judge.beecrowd.com/pt/problems/view/1038)              | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/condicional/beecrowd1038.java) | 🟢     |
+| 1044 | [Múltiplos](https://judge.beecrowd.com/pt/problems/view/1044)           | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/condicional/beecrowd1044.java) | 🟢     |
+
+---
+
+### 🔹 Estrutura de Repetitiva
+
+| #    | Exercício                                                                          | Código                                                                                                                                   | Status |
+|------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 1071 | [Soma de Impares Consecutivos I](https://judge.beecrowd.com/pt/problems/view/1071) | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/repetitiva/beecrowd1071.java) | 🟢     |
+| 1078 | [Tabuada](https://judge.beecrowd.com/pt/problems/view/1078)                        | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/repetitiva/beecrowd1078.java) | 🟢     |
+| 1113 | [Crescente e Decrescente](https://judge.beecrowd.com/pt/problems/view/1113)        | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/repetitiva/beecrowd1113.java) | 🟢     |
+| 1114 | [Senha Fixa](https://judge.beecrowd.com/pt/problems/view/1114)                     | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/repetitiva/beecrowd1114.java) | 🟢     |
+| 1115 | [Quadrante](https://judge.beecrowd.com/pt/problems/view/1115)                      | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/repetitiva/beecrowd1115.java) | 🟢     |
+
+---
 
 ### 🔹 Estrutura Sequencial
 
@@ -63,27 +86,6 @@ src/
 
 ---
 
-### 🔹 Estrutura Condicional
-
-| #    | Exercício                                                               | Código                                                                                                                                    | Status |
-|------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| 1035 | [Teste de Seleção 1](https://judge.beecrowd.com/pt/problems/view/1035)  | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/condicional/beecrowd1035.java) | 🟢     |
-| 1036 | [Fórmula de Bhaskara](https://judge.beecrowd.com/pt/problems/view/1036) | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/condicional/beecrowd1036.java) | 🟢     |
-| 1038 | [Lanche](https://judge.beecrowd.com/pt/problems/view/1038)              | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/condicional/beecrowd1038.java) | 🟢     |
-| 1044 | [Múltiplos](https://judge.beecrowd.com/pt/problems/view/1044)           | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/condicional/beecrowd1044.java) | 🟢     |
-
----
-
-### 🔹 Estrutura de Repetição
-
-| #    | Exercício | Código                                                                                                                                   | Status |
-|------|-----------|------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| 1113 | [Crescente e Decrescente](https://judge.beecrowd.com/pt/problems/view/1113)          | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/repetitiva/beecrowd1113.java) | 🟢     |
-| 1114 | [Senha Fixa](https://judge.beecrowd.com/pt/problems/view/1114)           | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/repetitiva/beecrowd1114.java) | 🟢     |
-| 1115 | [Quadrante](https://judge.beecrowd.com/pt/problems/view/1115)          | [Ver código](https://github.com/jessicapasqualini/curso-logica-de-programacao-java/blob/main/src/estrutura/repetitiva/beecrowd1115.java) | 🟢     |
-
----
-
 ## 📌 Observações
 
-Os exercícios deste repositório fazem parte do curso **Java primeiros passos: Lógica de Programação e Algoritmos**, ministrado pelo professor Nélio Alves na [Udemy](https://www.udemy.com/pt/?srsltid=AfmBOopH1liebQIablf6ZJ088ncFuxRbyh4iHZHJYr6YS39LBbR7xwig).
+Os exercícios deste repositório fazem parte do curso **Java primeiros passos: Lógica de Programação e Algoritmos**, ministrado pelo professor Nélio Alves na [Udemy](https://www.udemy.com/course/java-curso-logica-de-programacao/?couponCode=KEEPLEARNING).
