@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  **/
 
-public class armazenarnumeros {
+public class ArmazenarNumeros {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
